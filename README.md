@@ -5,5 +5,6 @@ Feel free to discover, suggest and offer: you can contact me with <a href="mailt
 
 <ul>
   <li>Adaptive design(HTML/CSS): <a href="https://bullettime23.github.io/Sportstarts/">Sportstarts</a></li>
+  <li>Simple Reddit clone(Angular): <a href="https://demo-reddit-clone.vercel.app/">Reddit clone</a></li>
 </ul>
 
